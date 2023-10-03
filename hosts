@@ -1,0 +1,6 @@
+[docker_server]
+65.0.61.232
+
+[docker_server:vars]
+ansible_ssh_private_key_file=/Users/tusharsharma/desktop/ansible.pem
+ansible_user=ec2-user
